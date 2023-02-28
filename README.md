@@ -6,10 +6,10 @@
 
 ![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
 
-This was a group project in which we learnt about the details, advantages,
-and disadvantages of using trees as data structures. We learned about how to
-qualify trees as well as how to traverse them. Throughout the project, we
-implemented binary, binary search, AVL, and Max Binary Heap trees.
+This is an ALX SE group or individual project in which I learnt about the details, advantages,
+and disadvantages of using trees as data structures. I also learnt about how to
+qualify trees as well as how to traverse them. Throughout the project; binary, binary search, 
+AVL, and Max Binary Heap trees was implemented.
 
 ## Tests :heavy_check_mark:
 
